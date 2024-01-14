@@ -35,7 +35,7 @@ const First = () => {
           </div>
 
           
-          <div className="buttons first-page-buttons">
+          <div className="buttons">
             <Link className="next-button" to="/second">
               Next Step
             </Link>
